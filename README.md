@@ -32,10 +32,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Tools And Sortcurts 
 
-runjava :- runjava Is A Tool For Run Java Programs In Your Termux This Tool Is Developed By Uknown Developer For Only Terminal.
-uninstall :- uninstall Is A Command To Uninstall This Addon From Your Termux For Uninstall This Addon Write uninstall On Your Termux.
-termux :- termux Is A Shortcurt to go /data/data/com.termux/files/home To User This Shortcurt Write termux In Your Termux.
-sdcard :- sdcard Is A Shortcurt to Access You Internal Storage And Go to Internal Storage.
+runjava :- runjava Is A Tool For Run Java Programs In Your Termux This Tool Is Developed By Uknown Developer For Only Terminal. \n
+uninstall :- uninstall Is A Command To Uninstall This Addon From Your Termux For Uninstall This Addon Write uninstall On Your Termux.\n
+termux :- termux Is A Shortcurt to go /data/data/com.termux/files/home To User This Shortcurt Write termux In Your Termux.\n
+sdcard :- sdcard Is A Shortcurt to Access You Internal Storage And Go to Internal Storage.\n
 
 
 ### Support or Contact
