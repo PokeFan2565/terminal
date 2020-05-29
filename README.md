@@ -38,14 +38,7 @@ runjava :- runjava Is A Tool For Run Java Programs In Your Termux This Tool Is D
 
 
 
-
-
-
 uninstall :- uninstall Is A Command To Uninstall This Addon From Your Termux For Uninstall This Addon Write uninstall On Your Termux.
-
-
-
-
 
 
 
@@ -57,13 +50,7 @@ termux :- termux Is A Shortcurt to go /data/data/com.termux/files/home To User T
 
 
 
-
-
 sdcard :- sdcard Is A Shortcurt to Access You Internal Storage And Go to Internal Storage.
-
-
-
-
 
 
 
@@ -71,4 +58,4 @@ sdcard :- sdcard Is A Shortcurt to Access You Internal Storage And Go to Interna
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email :- alokmistry79@gmail.com
