@@ -1,19 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Terminal Installetion Page
 
-You can use the [editor on GitHub](https://github.com/uknownash/terminal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Terminal Is A Addone Of Termux Is Make Easyer To User Termux Is Developed By Alok Mistry The UknownDeveloper To Encerage Developer Please Use It And Write Your Suggetion Bellow
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Installation Terminal in Termux
 
-```markdown
+Follow The Commands To Install The Terminal On Your Termux Commands is Written Bellow
+
+``` Installation Terminal in Termux
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
 
 - Bulleted
 - List
